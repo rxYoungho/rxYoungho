@@ -4,17 +4,17 @@
 
 ### 🇰🇷&nbsp;About Me
 
-🔥 &nbsp;Software Engineer at [ZeroClassLab Inc.](https://www.zeroclasslab.com/)\
+🔥 &nbsp;Software Engineer at [ZeroClassLab Inc.](https://www.zeroclasslab.com/)
 
-🎓 &nbsp;Master's degree student at State University of New York, Stony Brook.\
+🎓 &nbsp;Master's degree student at State University of New York, Stony Brook.
 
-🌱 &nbsp;I love to talk about Artificial Intelligence, Computer Vision, Autonomous Vehicles, and Virtual World (Known as Metaverse).\
+🌱 &nbsp;I love to talk about Artificial Intelligence, Computer Vision, Autonomous Vehicles, and Virtual World (Known as Metaverse).
 
-🏋️‍♂️ &nbsp;In my free time, I pursue exercising at a fitness center.\
+🏋️‍♂️ &nbsp;In my free time, I pursue exercising at a fitness center.
 
-💬 &nbsp;Email me if you have any questions regarding my repositories.\
+💬 &nbsp;Email me if you have any questions regarding my repositories.
 
-✉️ &nbsp;dannyinsuny@gmail.com.\
+✉️ &nbsp;dannyinsuny@gmail.com.
 
 📄 &nbsp;[Résumé](https://github.com/rxYoungho/RESUME/blob/main/Resume_Youngho%20Kim_2021-05-07.pdf)
 
