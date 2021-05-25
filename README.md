@@ -5,12 +5,22 @@
 ### 🇰🇷&nbsp;About Me
 
 🎓 &nbsp;I'm currently a master's degree student at State University of New York, Stony Brook.\
+
 🌱 &nbsp;I love to talk about Artificial Intelligence, Computer Vision, Autonomous Vehicles, and Virtual World (Known as Metaverse).\
+
 🏋️‍♂️ &nbsp;In my free time, I pursue exercising at a fitness center.\
+
 💬 &nbsp;Email me if you have any questions regarding my repositories.\
+
 ✉️ &nbsp;dannyinsuny@gmail.com.\
+
 📄 &nbsp;[Résumé](https://github.com/rxYoungho/RESUME/blob/main/Resume_Youngho%20Kim_2021-05-07.pdf)
 
+📰 &nbsp;[Academic Paper: COVID-19 Detection using CT Scan images](https://github.com/rxYoungho/X-ray-CT_scan_Covid-19_detection/blob/master/COVID-19%20Detection%20using%20Computed%20Tomography%20Scans%20with%20YOLO3.pdf)
+
+📰 &nbsp;[Academic Paper: COVID-19 Detection using X-ray Scan images](https://github.com/rxYoungho/X-ray-CT_scan_Covid-19_detection/blob/master/COVID-19%20%20and%20%20Pneumonia%20%20Classification%20%20with%20%20X-ray%20%20Images%20%20UsingCombined%20%20ResNet50%20%20Model.pdf)
+
+📰 &nbsp;[Korea Patent: Smart Shopping Bucket using RFID Reader](https://github.com/rxYoungho/RESUME/blob/main/%5BHaru%5D%20%E1%84%90%E1%85%B3%E1%86%A8%E1%84%92%E1%85%A5%E1%84%8C%E1%85%B3%E1%86%BC(%E1%84%8C%E1%85%A610-2245196%E1%84%92%E1%85%A9).pdf)
 
 ### 🛠 &nbsp;Tech Stack
 
