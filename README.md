@@ -4,7 +4,7 @@
 
 ### 🇰🇷&nbsp;About Me
 
-🔥 &nbsp;Software Engineer at [ZeroClassLab Inc.](https://www.zeroclasslab.com/)
+🔥 &nbsp;CTO at [ZeroClassLab Inc.](https://www.zeroclasslab.com/)
 
 🎓 &nbsp;Master's degree student at State University of New York, Stony Brook.
 
