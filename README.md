@@ -18,7 +18,7 @@
 
 📄 &nbsp;[Résumé](https://github.com/rxYoungho/RESUME/blob/main/Resume_Youngho%20Kim_2021-05-07.pdf)
 
-📌 &nbsp;[Academic Paper: Residual Quantity in Percentage of Factory Machines Using ComputerVision and Mathematical Methods](https://github.com/rxYoungho/Residual-Quantity-in-Percentage-of-Factory-Machines-Using-ComputerVision-and-Mathematical-Methods/blob/main/Residual%20Quantity%20in%20Percentage%20of%20Factory%20Machines%20Using%20ComputerVision%20and%20Mathematical%20Methods.pdf)
+📌 &nbsp;[Academic Paper: Residual Quantity in Percentage of Factory Machines Using ComputerVision and Mathematical Methods](https://arxiv.org/abs/2111.05080)
 
 📌 &nbsp;[Academic Paper: COVID-19 Detection using CT Scan images](https://github.com/rxYoungho/X-ray-CT_scan_Covid-19_detection/blob/master/COVID-19%20Detection%20using%20Computed%20Tomography%20Scans%20with%20YOLO3.pdf)
 
