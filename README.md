@@ -4,6 +4,8 @@
 
 ### 🇰🇷&nbsp;About Me
 
+🔥 &nbsp;CEO at [TmrFounders Inc.](https://www.tmr-founders.com/)
+
 🔥 &nbsp;CTO at [ZeroClassLab Inc.](https://www.zeroclasslab.com/)
 
 🎓 &nbsp;Master's degree student at State University of New York, Stony Brook.
