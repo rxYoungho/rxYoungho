@@ -4,7 +4,7 @@
 
 ### 🇰🇷&nbsp;About Me
 
-🔥 &nbsp;CEO at [TmrFounders Inc.](https://www.tmr-founders.com/)
+🔥 &nbsp;CEO at [TMR Founders Inc.](https://www.tmr-founders.com/)
 
 🖥 &nbsp;Prev - CTO at [ZeroClassLab Inc.](https://www.zeroclasslab.com/)
 
